@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **duajaradat/duajaradat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +25,16 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-* [Email](duajaradat164@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/du-a-jaradat-b7474413b/)
+* [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/du-a-jaradat-b7474413b/)
+* [![E-mail](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:duajaradat164@gmail.com)
+* [![E-mail](https://img.shields.io/badge/-Email-purple?style=flat&logo=Yahoo&logoColor=white)](mailto:duajaradat164@yahoo.com)
+* [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://ltuc-asac.slack.com/team/U023AB1S4KF)
+
+<br/>
+
+### Curriculum Vitae:
+
+
 
 <br/>
 
